@@ -65,7 +65,8 @@ section.normal{
 
 .imagem{
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.74);
-    
+    background-position: left center;
+
     background-attachment: fixed;
     color: white;
 }
@@ -74,7 +75,7 @@ section.normal{
 section#imagem1{
     background-image: url('imagens/background001.jpg');
     background-position: left center;
-    background-size: cover;
+    
     
     
      
@@ -83,7 +84,6 @@ section#imagem1{
 
 #imagem2{
     background-image: url('imagens/background002.jpg');
-    background-size: cover;
 }
  
     
