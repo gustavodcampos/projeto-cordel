@@ -73,6 +73,7 @@ section.normal{
 
 section#imagem1{
     background-image: url('imagens/background001.jpg');
+    background-position: left center;
     
      
     
